@@ -10,6 +10,27 @@
   "fa": "Persian",
   "en": "English",
   "CREATETASK":"Create Task",
-  "TASKSLIST":"Tasks List"
+  "TASKSLIST":"Tasks List",
+  "FIRST_NAME": "First Name",
+  "LAST_NAME": "Last Name",
+  "LOGIN":" Login",
+  "LOGINBTN":"Login",
+  "SIGNUP":"Sign up ",
+  "NAME": " Name",
+  "PASSWORD": "Password ",
+  "EMAIL": "Email",
+  "HAV_NOT_ACCOUNT": "Do not have an account?",
+  "REGISTER_NOW": "Register Now ",
+  "SUBMIT": "Submit",
+  "CHECKING": " is checking",
+  "YOUR_EMAI_IS_NOT_VALID": " Email is not valid ",
+  "EMAIL_IS_REQUIRED":"Email is required",
+  "FULL_NAME": "Full name",
+  "LOGIN_TO_ACCOUNT": "Login to  Account",
+  "REGISTER_BEFORE": "Register before",
+  "ENTER_YOUR_INFORMATION":"  Enter your information ",
+  "KEYBOARD_LATIN":"User latin keyboard",
+  "HIDE_PASSWORD": "Hide Password",
+  "SHOW_PASSWORD": "Show Password"
   
 }

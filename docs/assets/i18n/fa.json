@@ -29,7 +29,10 @@
   "FULL_NAME": "نام و نام خانوادگی",
   "LOGIN_TO_ACCOUNT": "ورود به حساب کاربری",
   "REGISTER_BEFORE": "قبلا ثبت نام کرده اید؟",
-  "ENTER_YOUR_INFORMATION":"اطلاعات خود را وارد نمایید"
+  "ENTER_YOUR_INFORMATION":"اطلاعات خود را وارد نمایید",
+  "KEYBOARD_LATIN":"لطفا فقط از حروف انگلیسی استفاده کنید",
+  "HIDE_PASSWORD": "مخفی کردن رمز عبور",
+  "SHOW_PASSWORD": "نمایش رمز عبور"
 
 
 

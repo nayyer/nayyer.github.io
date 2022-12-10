@@ -10,9 +10,7 @@
     }
   body {
     font-family: iransans;
-
-
-
+    direction: rtl;
   }
   *{
     :not(.english){
@@ -109,6 +107,9 @@
   }
 
   body {
+    .app-page-body{
+      direction: ltr;
+    }
     .crisp-client .cc-52lo .cc-kegp .cc-1oun .cc-1qth:after {
       content: 'Support';
       font-family: $default-ltr-font !important;
